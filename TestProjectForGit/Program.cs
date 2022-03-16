@@ -6,7 +6,7 @@ namespace TestProjectForGit
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("I'm a test for git");
+            Console.WriteLine("Changed in remote");
         }
     }
 }
